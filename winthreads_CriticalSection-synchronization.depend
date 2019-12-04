@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575442890 source:c:\users\datamanagement\documents\practice_c\winthreads_criticalsection-synchronization\winthreads_criticalsection-synchronization.cpp
+	<stdio.h>
+	<windows.h>
+	<process.h>
+	<time.h>
+
